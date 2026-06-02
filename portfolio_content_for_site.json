@@ -1,0 +1,128 @@
+{
+  "profile": {
+    "name": "Haoxiang Liu / Harrison",
+    "positioning": "AIoT × Agent × Human-Centered Intelligence",
+    "university": "University of Science and Technology Beijing",
+    "major": "Intelligent Sensing and Perception Engineering",
+    "email": "hxliu.work@gmail.com",
+    "phone": "+86 17807964997",
+    "google_scholar": "#",
+    "github": "#",
+    "linkedin": "#",
+    "intro": "I build AI-powered, embedded, and human-centered intelligent systems, with experience across multimodal agents, STM32 hardware development, smart home control, and speech rehabilitation products."
+  },
+  "skills": {
+    "Embedded & AIoT": [
+      "STM32",
+      "ESP32",
+      "PCB Design",
+      "ROS",
+      "Multi-Sensor Systems",
+      "Embedded Prototyping"
+    ],
+    "AI Agent & Benchmark": [
+      "Python",
+      "PyTorch",
+      "Data Visualization",
+      "Multimodal Understanding",
+      "Benchmark Construction",
+      "Experimental Analysis"
+    ],
+    "Product-Oriented Prototyping": [
+      "User Research",
+      "System Design",
+      "Prototype Implementation",
+      "Hardware–Software Integration",
+      "Technical Documentation",
+      "Roadshow / Presentation"
+    ]
+  },
+  "projects": [
+    {
+      "title": "Integrated STM32 Embedded Research & Education Platform",
+      "date": "2026.02 – 2026.05",
+      "role": "Independent Developer / Project Lead",
+      "tags": [
+        "STM32",
+        "PCB Design",
+        "Embedded Systems",
+        "Teaching Platform",
+        "Hardware Production"
+      ],
+      "description": "I independently designed a custom STM32F103RBT6 learning board, covering hardware architecture, schematic design, PCB layout, SMT production, teaching materials, and course delivery.",
+      "highlights": [
+        "Designed schematic and PCB independently in KiCad",
+        "Integrated GPIO, I2C, SPI, UART, PWM, ADC, timers, interrupts, sensors, displays, and IR communication",
+        "Led prototyping, SMT production, manufacturer communication, assembly tracking, and quality checks",
+        "Delivered 200+ boards to the university innovation center",
+        "Generated 30,000+ RMB in sales",
+        "Prepared 50,000+ words of technical documentation and PPT materials",
+        "Trained 1,000+ students"
+      ]
+    },
+    {
+      "title": "AI-Powered Speech Assistant for Children with Speech Disorders",
+      "date": "2024.11 – 2025.07",
+      "role": "Project Lead / Beijing Municipal Student Innovation Training Program",
+      "tags": [
+        "Speech Rehabilitation",
+        "Whisper",
+        "LoRA",
+        "Praat",
+        "MySQL",
+        "Human-Centered AI"
+      ],
+      "description": "A home-based speech rehabilitation system integrating a smart plush device, parent-side app, and cloud-based speech analysis model.",
+      "highlights": [
+        "Designed software–hardware collaboration workflow",
+        "Fine-tuned Whisper with LoRA for atypical child speech",
+        "Used Praat to extract acoustic features for assessment",
+        "Built a loop covering collection, inference, evaluation, and feedback optimization",
+        "Won First Prize, North China Five Provinces Computer Application Competition",
+        "Won Second Prize, Beijing Computer Design Competition",
+        "Won Special Prize, USTB Cradle Cup Competition"
+      ]
+    },
+    {
+      "title": "OpenClaw-based AI Smart Home Terminal",
+      "date": "2026.10 – 2026.02",
+      "role": "Project Lead / Shenzhen Innox 2026 Geek Camp",
+      "tags": [
+        "AI Agent",
+        "Smart Home",
+        "AIoT",
+        "Natural Language Control",
+        "Edge Intelligence"
+      ],
+      "description": "Nexus is an AI-agent-powered smart home terminal for multi-brand home environments.",
+      "highlights": [
+        "Designed a natural-language-to-device-command workflow",
+        "Supported cross-brand device coordination and proactive automation",
+        "Added long-term memory and personalized preference learning",
+        "Presented the product as the main speaker during the roadshow",
+        "Won Champion in the Smart Home category of the Industry Track"
+      ]
+    },
+    {
+      "title": "DV-World: Benchmarking Data Visualization Agents in Real-World Scenarios",
+      "date": "2025.11 – 2026.02",
+      "role": "Contributor",
+      "tags": [
+        "AI Agent",
+        "Data Visualization",
+        "Benchmark",
+        "Multimodal Interaction",
+        "ICML 2026"
+      ],
+      "publication": "ICML 2026 Accepted · arXiv:2604.25914",
+      "description": "A benchmark for evaluating data visualization agents in realistic office scenarios.",
+      "highlights": [
+        "Contributed to annotation guidelines for multi-turn intent alignment tasks",
+        "Identified ambiguity patterns in office visualization requests",
+        "Formalized clarification strategies through True Intent and Reaction Rules",
+        "Constructed ambiguous tasks and reviewed annotation consistency",
+        "Prepared experimental figures and supported result analysis"
+      ]
+    }
+  ]
+}
