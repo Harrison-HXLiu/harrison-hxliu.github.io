@@ -60,7 +60,7 @@ Edit `index.html` to update:
 - Awards
 - Contact links
 
-Placeholder links currently use `#` and should be replaced when real Google Scholar, GitHub, LinkedIn, paper, code, or project links are available.
+Google Scholar, GitHub, LinkedIn, and OpenReview links are already filled in `index.html`. Publication-specific Paper, Code, and Project links still use `#` placeholders and should be replaced when real links are available.
 
 ## Update Image
 
